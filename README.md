@@ -1,5 +1,13 @@
 # Book-Search-Engine
-## deployment
+The Book search engine is an application is leveraging the entire MERN stack and with a React front end, MongoDB database, and Node.js/Express.js server and API. It's set up to allow users to save book searches to the back end. The application is built using Google Books API search engine build with GraphQL API and Apollo Server.
+
+## deployed app
+https://murmuring-anchorage-40897.herokuapp.com/
+
+# Screenshot
+![1](https://user-images.githubusercontent.com/65136237/140399755-af7bd660-6896-4385-b604-89c734376e2a.png)
+![2](https://user-images.githubusercontent.com/65136237/140399841-943d2a76-d326-4873-a724-bd2a286b7414.png)
+![3](https://user-images.githubusercontent.com/65136237/140399862-afabc015-7dc7-47ee-bc3e-386229a08928.png)
 
 ## Available Scripts
 
